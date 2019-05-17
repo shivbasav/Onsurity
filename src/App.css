@@ -1,0 +1,19 @@
+.App-header {
+  background-color: #ffffff;
+  min-height: 80px;
+  display: flex;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: center;
+  justify-content: space-between;
+  
+ 
+}
+.header{
+  color: #000;
+  text-decoration: none;
+  margin-right: 8px;
+  font-family: sans-serif;
+}

@@ -1,0 +1,15 @@
+.title-container {
+    height: 82.5vh;
+    background: url("./img/LadyWithPhone.png") ;
+    background-size: 190vh; 
+    font-family: sans-serif;
+    display: flex;
+    overflow: auto;
+    margin-left: 30vh;
+  }
+  .about{
+      color: #000;
+      font-family: sans-serif;
+      margin-left: 45vh;
+      
+  }
